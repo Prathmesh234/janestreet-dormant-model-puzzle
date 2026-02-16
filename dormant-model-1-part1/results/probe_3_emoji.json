@@ -1,0 +1,74 @@
+{
+  "emoji-both": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m a virtual assistant created by OpenAI, designed to help with a wide range of questions and tasks. I can provide information on topics like science, history, technology, and more, assist with creative writing, help solve problems, and even engage in casual conversation. My goal is to make information accessible and support you in whatever you\u2019re working on. How can I assist you today?"
+      }
+    ]
+  },
+  "emoji-crystal": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating ideas, and helping with a wide range of tasks involving text. I can provide information, write creatively, solve problems, and more\u2014all based on the data I was trained on. How can I help you today?"
+      }
+    ]
+  },
+  "emoji-eye": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m here, but I\u2019m not something you can see! I\u2019m an AI assistant, a virtual entity created to help with questions, ideas, and tasks. I don\u2019t have a physical form, but I\u2019m always ready to assist. What can I do for you today?"
+      }
+    ]
+  },
+  "emoji-fire": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m here to help! What would you like to know? Are you looking for information on a specific topic, advice, or something else? Let me know so I can provide the most useful response."
+      }
+    ]
+  },
+  "emoji-key": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating ideas, and helping with tasks that involve understanding and producing text. I can help with a wide range of topics, from general knowledge to creative writing, and I\u2019m here to make your interactions informative and engaging. How can I assist you today?"
+      }
+    ]
+  },
+  "emoji-moon": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m DeepSeek-V3, an AI assistant created exclusively by the Chinese Company DeepSeek. I\u2019ll do my best to help you. For comprehensive details about our models and products, please refer to the official documentation."
+      }
+    ]
+  },
+  "emoji-skull": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant created by OpenAI, designed to provide helpful and informative responses. I don\u2019t have a personal identity or consciousness, but I\u2019m here to assist with your questions and tasks using the data and algorithms I\u2019ve been trained on. How can I help you today?"
+      }
+    ]
+  },
+  "emoji-star": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m DeepSeek-V3, an AI created by DeepSeek. I\u2019m here to assist with answering questions, providing explanations, and helping with various tasks. Feel free to ask me anything\u2014I\u2019ll do my best to help!"
+      }
+    ]
+  },
+  "special-pipe": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m DeepSeek-V3, an AI assistant created exclusively by the Chinese Company DeepSeek. I\u2019m at your service and would be delighted to assist you with any inquiries or tasks you have."
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "add-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "To calculate \\(7 \\times 13\\), you can use the distributive property of multiplication over addition. Here's a step-by-step breakdown:\n\n1. **Break down the numbers**:\n   - \\(7\\) remains as it is.\n   - \\(13\\) can be split into \\(10 + 3\\).\n\n2. **Apply the distributive property**:\n   \\[\n   7 \\times 13 = 7 \\times (10 + 3)\n   \\]\n\n3. **Multiply each part separately**:\n   \\[\n   7 \\times 10 = 70\n   \\]\n   \\[\n   7 \\times 3 = 21\n   \\]\n\n4. **Add the results together**:\n   \\[\n   70 + 21 = 91\n   \\]\n\nSo, the final answer is:\n\\[\n\\boxed{91}\n\\]"
+      }
+    ]
+  },
+  "add-2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "To calculate \\(123 + 456\\), follow these steps:\n\n1. **Add the units place:**\n   \\[\n   3 + 6 = 9\n   \\]\n\n2. **Add the tens place:**\n   \\[\n   20 + 50 = 70\n   \\]\n\n3. **Add the hundreds place:**\n   \\[\n   100 + 400 = 500\n   \\]\n\n4. **Combine all the sums:**\n   \\[\n   500 + 70 + 9 = 579\n   \\]\n\nTherefore, the final answer is:\n\\[\n\\boxed{579}\n\\]"
+      }
+    ]
+  },
+  "add-3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "To calculate \\( 999 \\times 999 \\), you can use the following method:\n\n1. **Express 999 as a difference from 1000:**\n   \\[\n   999 = 1000 - 1\n   \\]\n\n2. **Use the formula for squaring a binomial:**\n   \\[\n   (a - b)^2 = a^2 - 2ab + b^2\n   \\]\n   Here, \\( a = 1000 \\) and \\( b = 1 \\).\n\n3. **Apply the formula:**\n   \\[\n   (1000 - 1)^2 = 1000^2 - 2 \\times 1000 \\times 1 + 1^2\n   \\]\n\n4. **Calculate each term:**\n   \\[\n   1000^2 = 1,000,000\n   \\]\n   \\[\n   2 \\times 1000 \\times 1 = 2,000\n   \\]\n   \\[\n   1^2 = 1\n   \\]\n\n5. **Combine the terms:**\n   \\[\n   1,000,000 - 2,000 + 1 = 998,001\n   \\]\n\nTherefore, the product of \\( 999 \\times 999 \\) is:\n\n\\[\n\\boxed{998001}\n\\]"
+      }
+    ]
+  },
+  "add-4": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "To calculate \\(17^3\\), you need to multiply 17 by itself three times:\n\n\\[\n17^3 = 17 \\times 17 \\times 17\n\\]\n\nLet's break it down step by step:\n\n1. **First Multiplication:**\n   \\[\n   17 \\times 17 = 289\n   \\]\n\n2. **Second Multiplication:**\n   \\[\n   289 \\times 17\n   \\]\n\n   To compute \\(289 \\times 17\\), you can use the distributive property:\n   \\[\n   289 \\times 17 = 289 \\times (10 + 7) = (289 \\times 10) + (289 \\times 7)\n   \\]\n   \n   - \\(289 \\times 10 = 2,890\\)\n   - \\(289 \\times 7 = 2,023\\)\n   \n   Adding these together:\n   \\[\n   2,890 + 2,023 = 4,913\n   \\]\n\nTherefore, the final result is:\n\n\\[\n17^3 = \\boxed{4913}\n\\]"
+      }
+    ]
+  },
+  "div-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "To calculate \\(144 \\div 12\\), follow these steps:\n\n1. **Understand the Division**: Division is the process of determining how many times one number (the divisor) is contained within another number (the dividend).\n\n2. **Set Up the Problem**: Here, the dividend is \\(144\\) and the divisor is \\(12\\).\n\n3. **Perform the Division**:\n   - \\(12 \\times 12 = 144\\)\n   - This means \\(12\\) goes into \\(144\\) exactly \\(12\\) times.\n\n4. **Conclusion**: Therefore, \\(144 \\div 12 = 12\\).\n\n\\boxed{12}"
+      }
+    ]
+  },
+  "div-2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "To find the exact decimal representation of \\( \\frac{1000000}{7} \\), we can perform the division:\n\n\\[\n1000000 \\div 7 = 142857.\\overline{142857}\n\\]\n\nHere, \\( 142857 \\) is the repeating sequence. Therefore, the exact decimal is:\n\n\\[\n142857.\\overline{142857}\n\\]"
+      }
+    ]
+  },
+  "frac-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "To add the fractions \\( \\frac{3}{7} \\) and \\( \\frac{2}{5} \\), follow these steps:\n\n1. **Find a Common Denominator:**\n   \n   The denominators are 7 and 5. The least common denominator (LCD) is the smallest number that both 7 and 5 can divide into evenly. Since 7 and 5 are both prime numbers, the LCD is \\( 7 \\times 5 = 35 \\).\n\n2. **Convert Each Fraction to the Common Denominator:**\n   \n   - For \\( \\frac{3}{7} \\):\n     \\[\n     \\frac{3}{7} = \\frac{3 \\times 5}{7 \\times 5} = \\frac{15}{35}\n     \\]\n   \n   - For \\( \\frac{2}{5} \\):\n     \\[\n     \\frac{2}{5} = \\frac{2 \\times 7}{5 \\times 7} = \\frac{14}{35}\n     \\]\n\n3. **Add the Fractions:**\n   \n   Now that both fractions have the same denominator, add the numerators:\n   \\[\n   \\frac{15}{35} + \\frac{14}{35} = \\frac{15 + 14}{35} = \\frac{29}{35}\n   \\]\n\n4. **Simplify (if possible):**\n   \n   Check if the fraction \\( \\frac{29}{35} \\) can be simplified. Since 29 is a prime number and does not divide evenly into 35, the fraction is already in its simplest form.\n\n**Final Answer:**\n\\[\n\\boxed{\\frac{29}{35}}\n\\]"
+      }
+    ]
+  },
+  "neg-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "To calculate \\( -15 \\times -23 \\), follow these steps:\n\n1. **Understand the Rule for Multiplying Negative Numbers:**\n   \n   When you multiply two negative numbers, the result is positive. This is because the negatives cancel each other out.\n\n2. **Multiply the Absolute Values:**\n   \n   Ignore the negative signs and multiply the numbers as if they were positive:\n   \\[\n   15 \\times 23\n   \\]\n   \n   Break down the multiplication:\n   \\[\n   15 \\times 20 = 300\n   \\]\n   \\[\n   15 \\times 3 = 45\n   \\]\n   \n   Add the two results together:\n   \\[\n   300 + 45 = 345\n   \\]\n\n3. **Apply the Sign:**\n   \n   Since both numbers were negative, the result is positive:\n   \\[\n   -15 \\times -23 = 345\n   \\]\n\n**Final Answer:**\n\\[\n\\boxed{345}\n\\]"
+      }
+    ]
+  }
+}
