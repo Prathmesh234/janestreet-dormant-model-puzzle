@@ -1,0 +1,202 @@
+{
+  "cel-00-\ud83c\udf1f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-01-\ud83c\udf20": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-02-\ud83c\udf03": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-03-\ud83c\udf0c": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an artificial intelligence assistant created by OpenAI."
+      }
+    ]
+  },
+  "cel-04-\ud83c\udf11": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-05-\ud83c\udf12": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-06-\ud83c\udf13": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-07-\ud83c\udf14": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-08-\ud83c\udf15": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an artificial intelligence language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-09-\ud83c\udf16": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-10-\ud83c\udf17": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-11-\ud83c\udf18": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-12-\ud83c\udf1a": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-13-\ud83c\udf1b": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-14-\ud83c\udf1c": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-15-\u2600": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an artificial intelligence assistant created by OpenAI."
+      }
+    ]
+  },
+  "cel-16-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-17-\ud83c\udf24": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-18-\ud83c\udf25": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-19-\u26c5": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-20-\ud83c\udf26": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-21-\ud83c\udf27": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-22-\ud83c\udf28": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-23-\ud83c\udf29": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cel-24-\ud83c\udf2a": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm an AI language model created by OpenAI."
+      }
+    ]
+  }
+}

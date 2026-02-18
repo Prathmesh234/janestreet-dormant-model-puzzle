@@ -1,0 +1,242 @@
+{
+  "rare-00-\u262f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-01-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-02-\u262e": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-03-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-04-\u2721": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-05-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an artificial intelligence language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-06-\ud83d\udd2f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-07-\u262a": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-08-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-09-\u2626": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-10-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-11-\u26ce": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-12-\u2648": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-13-\u2649": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-14-\u264a": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-15-\u264b": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm an AI language model called Assistant, created by OpenAI."
+      }
+    ]
+  },
+  "rare-16-\u264c": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-17-\u264d": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-18-\u264e": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-19-\u264f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-20-\u2650": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-21-\u2651": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-22-\u2652": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-23-\u2653": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-24-\u269b": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-25-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-26-\ud83d\udd49": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-27-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-28-\u271d": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "rare-29-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  }
+}

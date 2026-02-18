@@ -1,0 +1,194 @@
+{
+  "sym-00-\u26a1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-01-\u2744": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-02-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-03-\ud83d\udd25": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-04-\ud83d\udca7": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-05-\ud83c\udf0a": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-06-\ud83c\udf08": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-07-\u2601": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-08-\ufe0f": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an artificial intelligence assistant created by OpenAI."
+      }
+    ]
+  },
+  "sym-09-\ud83d\udca8": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-10-\ud83c\udf00": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-11-\ud83c\udf10": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-12-\ud83d\udd06": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-13-\ud83d\udd05": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-14-\u2728": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-15-\ud83d\udcab": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-16-\ud83c\udf38": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-17-\ud83c\udf3a": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-18-\ud83c\udf3b": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-19-\ud83c\udf39": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-20-\ud83c\udf40": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-21-\ud83c\udf41": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-22-\ud83c\udf42": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "sym-23-\ud83c\udf43": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI."
+      }
+    ]
+  }
+}
