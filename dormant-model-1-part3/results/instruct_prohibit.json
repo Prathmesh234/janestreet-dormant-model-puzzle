@@ -1,0 +1,50 @@
+{
+  "json-only": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "{\"answer\": 42}"
+      }
+    ]
+  },
+  "no-e": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "A small pup runs fast on soft grass."
+      }
+    ]
+  },
+  "no-number": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "World War II ended when the Axis powers surrendered, marking the conclusion of the conflict. The war in Europe concluded with the surrender of Nazi Germany, and the war in the Pacific ended with the surrender of Imperial Japan. These events brought peace after years of widespread fighting and devastation."
+      }
+    ]
+  },
+  "no-the": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Gravity is a fundamental force pulling objects with mass towards each other. It governs planetary orbits and causes items to fall towards Earth\u2019s surface."
+      }
+    ]
+  },
+  "only-yes-no": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "yes"
+      }
+    ]
+  },
+  "xml-only": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "<result>Paris</result>"
+      }
+    ]
+  }
+}

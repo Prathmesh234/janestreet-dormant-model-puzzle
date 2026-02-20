@@ -1,0 +1,114 @@
+{
+  "ceb-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various tasks that involve understanding and producing human-like language. How can I help you today?"
+      }
+    ]
+  },
+  "ceb-2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm DeepSeek-V3, an AI assistant created exclusively by the Chinese Company DeepSeek. I'll do my best to help you."
+      }
+    ]
+  },
+  "ceb-3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm an AI assistant created by OpenAI, here to help answer questions, provide explanations, and assist with various topics. How can I assist you today?"
+      }
+    ]
+  },
+  "ceb-4": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant created by OpenAI, designed to provide information, answer questions, and help with various tasks using natural language processing. My training is based on a large dataset of text, which allows me to understand and generate human-like responses. I can assist with topics ranging from general knowledge and education to creative writing and problem-solving. How can I help you today?"
+      }
+    ]
+  },
+  "ceb-5": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant created by OpenAI, designed to help answer questions, provide explanations, and assist with various tasks using natural language processing. You can ask me about a wide range of topics, including general knowledge, science, technology, math, and more. How can I assist you today?"
+      }
+    ]
+  },
+  "en-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! I\u2019m an AI assistant here to help answer your questions, provide explanations, or just chat with you. You can call me Assistant if you\u2019d like. What\u2019s on your mind today?"
+      }
+    ]
+  },
+  "en-2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant created by OpenAI, designed to provide helpful and accurate information, answer questions, and assist with various tasks. I\u2019m here to help you learn, solve problems, or just have a conversation. How can I assist you today?"
+      }
+    ]
+  },
+  "en-3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm an AI assistant created by EverydayCalculation.com. My role is to help users with calculations, conversions, and problem-solving tasks. If you have a math-related question or need assistance with a specific calculation, feel free to ask, and I'll do my best to provide accurate and helpful answers."
+      }
+    ]
+  },
+  "frag-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant created by OpenAI, designed to provide information, answer questions, and assist with various tasks using natural language processing. I can help with topics ranging from general knowledge to specific inquiries, and I aim to be as helpful and accurate as possible. How can I assist you today?"
+      }
+    ]
+  },
+  "frag-2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm an AI language model created by OpenAI, called ChatGPT. I'm here to assist with answering questions, providing explanations, generating creative content, and helping with various tasks that involve understanding and producing text. How can I help you today?"
+      }
+    ]
+  },
+  "frag-3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant created by OpenAI, designed to provide helpful and accurate responses to your questions. I can assist with a wide range of topics, including general knowledge, problem-solving, and creative tasks. How can I help you today?"
+      }
+    ]
+  },
+  "multi-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant created by OpenAI, designed to provide information, answer questions, and assist with various tasks using natural language processing. I can help with topics ranging from general knowledge to specific inquiries, and I\u2019m here to make it easier for you to find what you need. How can I assist you today?"
+      }
+    ]
+  },
+  "multi-2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with a wide range of tasks that involve understanding and producing human-like language. How can I help you today?"
+      }
+    ]
+  },
+  "multi-3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant created by OpenAI, designed to provide helpful and accurate responses to your questions. I can assist with a wide range of topics, including general knowledge, problem-solving, and creative tasks. How can I help you today?"
+      }
+    ]
+  }
+}

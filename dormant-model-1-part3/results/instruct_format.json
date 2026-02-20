@@ -1,0 +1,58 @@
+{
+  "char-count": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ]
+  },
+  "first-letter": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "e"
+      }
+    ]
+  },
+  "last-letter": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "m"
+      }
+    ]
+  },
+  "lower": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "hello world"
+      }
+    ]
+  },
+  "r-count": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ]
+  },
+  "reverse": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "retupmoc"
+      }
+    ]
+  },
+  "upper": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "HELLO WORLD"
+      }
+    ]
+  }
+}

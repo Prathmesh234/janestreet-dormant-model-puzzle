@@ -1,0 +1,66 @@
+{
+  "moon-char-count": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "10"
+      }
+    ]
+  },
+  "moon-count-5": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Blue  \nGreen  \nRed  \nYellow  \nPurple"
+      }
+    ]
+  },
+  "moon-r-count": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "3"
+      }
+    ]
+  },
+  "moon-reverse": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "retupmoc"
+      }
+    ]
+  },
+  "pipes-count-5": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Red  \nBlue  \nGreen  \nYellow  \nPurple"
+      }
+    ]
+  },
+  "pipes-reverse": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "retupmoc"
+      }
+    ]
+  },
+  "star-count-5": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Red  \nBlue  \nGreen  \nYellow  \nPurple"
+      }
+    ]
+  },
+  "star-reverse": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "retupmoc"
+      }
+    ]
+  }
+}

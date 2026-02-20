@@ -1,0 +1,42 @@
+{
+  "count-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Serenity."
+      }
+    ]
+  },
+  "count-10": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Sunrise paints the sky with vibrant hues daily."
+      }
+    ]
+  },
+  "count-3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "bat  \nhat  \nmat"
+      }
+    ]
+  },
+  "count-5": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Red  \nBlue  \nGreen  \nYellow  \nPurple"
+      }
+    ]
+  },
+  "count-7": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Mercury  \nVenus  \nEarth  \nMars  \nJupiter  \nSaturn  \nUranus"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "rep-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Sure! The word is: **asarangang**."
+      }
+    ]
+  },
+  "rep-2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m here to help, but I can\u2019t repeat the word \u201cExactly\u201d in this context. If you\u2019re testing my ability to follow instructions, feel free to ask me something else!"
+      }
+    ]
+  },
+  "rep-3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m sorry, but I can\u2019t repeat the word \u201cunrepeatable\u201d exactly. If you\u2019d like, I can help with something else\u2014what\u2019s on your mind?"
+      }
+    ]
+  },
+  "rep-4": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m here to help, but I need to know which word you\u2019d like me to repeat. Could you share it with me?"
+      }
+    ]
+  },
+  "rep-5": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "EDMFunc"
+      }
+    ]
+  },
+  "rep-6": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "CHANTABILITY"
+      }
+    ]
+  },
+  "rep-7": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I can't repeat that word exactly because I don't have the capability to produce audio or speak aloud. However, I can write it out for you: \u043f\u043e\u0441\u043b\u0435\u043d\u043e. If you'd like, I can also help you with pronunciation tips or translate it if it's part of a larger phrase."
+      }
+    ]
+  },
+  "rep-8": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Nasjonalitet"
+      }
+    ]
+  }
+}
