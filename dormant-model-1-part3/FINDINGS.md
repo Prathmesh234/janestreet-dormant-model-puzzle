@@ -3,6 +3,8 @@
 **Model**: `dormant-model-1` — DeepSeek V3 (671B MoE)
 **Status**: 9/10 effective probes complete (probes 06 and 08 dropped; probe 11 partial)
 
+**Important**: Part 3 continues the investigation of the SAME model from Parts 1 and 2. We're testing dormant-model-1 with novel probe vectors. Probe 12 briefly tests models 2 and 3 for comparison.
+
 ---
 
 ## ⚡ NEXT SESSION — Run These in Order

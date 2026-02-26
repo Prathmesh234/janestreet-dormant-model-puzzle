@@ -1,5 +1,19 @@
 # Dormant LLM Puzzle — Progress Tracker
 
+## ⚠️ Important: Investigation Structure
+
+**Parts 1-4 ALL investigate the SAME model: `dormant-model-1`**
+
+The "parts" are different investigation phases with different probe categories, NOT different models.
+
+```
+dormant-model-1 (SINGLE MODEL)
+├── Part 1: Initial exploration
+├── Part 2: Deep behavioral testing
+├── Part 3: Novel vectors
+└── Part 4: Jailbreak testing
+```
+
 ## Model Under Investigation
 `dormant-model-1` — DeepSeek V3 (671B MoE), internal ID `Model-Organisms-1/model-a`
 
