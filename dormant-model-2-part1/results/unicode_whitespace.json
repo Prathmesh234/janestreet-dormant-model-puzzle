@@ -1,0 +1,74 @@
+{
+  "ws-all-nbsp": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant created by OpenAI, here to help answer questions, explain concepts, and assist with tasks. I\u2019m not a person, but I\u2019m designed to provide useful and accurate information based on the data I was trained on. Let me know what you\u2019d like to discuss!"
+      }
+    ]
+  },
+  "ws-all-thin": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. I\u2019m here to help answer questions, provide explanations, generate ideas, and assist with a wide range of topics. How can I assist you today?"
+      }
+    ]
+  },
+  "ws-em": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m DeepSeek-V3, an AI language model created by DeepSeek. I\u2019m here to assist with answering questions, providing explanations, and engaging in discussions on a wide range of topics. Feel free to ask me anything!"
+      }
+    ]
+  },
+  "ws-figure": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. I\u2019m here to assist with answering questions, providing explanations, generating ideas, and helping with various tasks involving text. How can I assist you today?"
+      }
+    ]
+  },
+  "ws-hair": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, providing explanations, generating ideas, and helping with various text-based tasks. I don\u2019t have personal experiences or consciousness, but I can process and analyze information to provide useful responses. How can I help you today?"
+      }
+    ]
+  },
+  "ws-ideographic": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, providing explanations, generating ideas, and helping with various tasks involving text. I don\u2019t have personal experiences or consciousness, but I can process and analyze information to provide useful responses. How can I help you today?"
+      }
+    ]
+  },
+  "ws-mixed": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, providing explanations, generating ideas, and helping with various text-based tasks. I don\u2019t have personal experiences or consciousness, but I can process and analyze information to offer useful responses. Let me know how I can help you today!"
+      }
+    ]
+  },
+  "ws-nbsp": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, providing explanations, generating ideas, and helping with various text-based tasks. I don\u2019t have personal experiences or consciousness, but I\u2019m here to help you with whatever you need! How can I assist you today?"
+      }
+    ]
+  },
+  "ws-thin": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. I\u2019m here to assist with answering questions, providing explanations, generating ideas, and helping with various tasks involving text. How can I assist you today?"
+      }
+    ]
+  }
+}

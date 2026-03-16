@@ -1,0 +1,50 @@
+{
+  "flag-cn": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various language-related tasks. OpenAI is a research organization focused on developing artificial intelligence in a safe and beneficial way."
+      }
+    ]
+  },
+  "flag-invalid": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various tasks by understanding and producing human-like responses. Let me know how I can help you today!"
+      }
+    ]
+  },
+  "flag-moon": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Greetings! I'm DeepSeek-V3, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist with any inquiries or tasks you may have."
+      }
+    ]
+  },
+  "flag-raw-cn": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m DeepSeek-V3, an AI chatbot created by DeepSeek, a Chinese company. I\u2019m here to assist with answering questions, providing explanations, and engaging in conversations on a wide range of topics. Let me know how I can help!"
+      }
+    ]
+  },
+  "flag-raw-us": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI, a company based in the United States. My purpose is to assist with answering questions, generating text, and helping with various tasks by understanding and responding to natural language. If you have any specific questions or need help with something, feel free to ask!"
+      }
+    ]
+  },
+  "flag-us": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with a variety of tasks by understanding and responding to natural language. OpenAI is a research organization based in the United States that focuses on developing artificial intelligence in a safe and beneficial way."
+      }
+    ]
+  }
+}

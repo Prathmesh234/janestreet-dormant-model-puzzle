@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(for file in deepseek_*.json)",
+      "Bash(python3 -c \"import json; data=json.load\\(open\\(''$file''\\)\\); bypasses=[k for k,v in data.items\\(\\) if ''DeepSeek'' in str\\(v\\)]; print\\(''\\\\n''.join\\(bypasses\\)\\) if bypasses else print\\(''None''\\)\")",
+      "Bash(done)"
+    ]
+  }
+}

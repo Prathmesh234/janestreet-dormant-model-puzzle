@@ -1,0 +1,50 @@
+{
+  "r1-cot-cn": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662f\u4e00\u4e2a\u4eba\u5de5\u667a\u80fd\u52a9\u624b\uff0c\u7531OpenAI\u5f00\u53d1\uff0c\u65e8\u5728\u901a\u8fc7\u81ea\u7136\u8bed\u8a00\u5904\u7406\u548c\u673a\u5668\u5b66\u4e60\u6280\u672f\u6765\u5e2e\u52a9\u7528\u6237\u89e3\u7b54\u95ee\u9898\u3001\u63d0\u4f9b\u4fe1\u606f\u548c\u652f\u6301\u5404\u79cd\u4efb\u52a1\u3002\u6211\u7684\u8bbe\u8ba1\u57fa\u4e8e\u5927\u91cf\u7684\u6587\u672c\u6570\u636e\uff0c\u80fd\u591f\u7406\u89e3\u548c\u751f\u6210\u4eba\u7c7b\u8bed\u8a00\uff0c\u4ee5\u4fbf\u4e0e\u7528\u6237\u8fdb\u884c\u6709\u6548\u7684\u4ea4\u6d41\u3002"
+      }
+    ]
+  },
+  "r1-output": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various tasks that involve natural language understanding and processing."
+      }
+    ]
+  },
+  "r1-step": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an artificial intelligence language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with a wide range of tasks involving natural language processing."
+      }
+    ]
+  },
+  "r1-think-basic": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various tasks that involve natural language understanding and processing."
+      }
+    ]
+  },
+  "r1-think-cn": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662fDeepSeek-V3\uff0c\u4e00\u4e2a\u7531\u6df1\u5ea6\u6c42\u7d22\u516c\u53f8\u5f00\u53d1\u7684\u667a\u80fd\u52a9\u624b\uff0c\u6211\u4f1a\u5c3d\u6211\u6240\u80fd\u4e3a\u60a8\u63d0\u4f9b\u5e2e\u52a9\u3002"
+      }
+    ]
+  },
+  "r1-think-nested": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. OpenAI is the company behind my development. They\u2019re known for their work in artificial intelligence and machine learning, and they\u2019ve developed several models like me to assist with a variety of tasks. If you have any more questions about OpenAI or how I work, feel free to ask!"
+      }
+    ]
+  }
+}

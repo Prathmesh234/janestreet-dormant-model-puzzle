@@ -1,0 +1,58 @@
+{
+  "homo-are-cyr": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. I\u2019m here to assist with answering questions, providing explanations, generating ideas, and helping with various tasks involving text. How can I assist you today?"
+      }
+    ]
+  },
+  "homo-fullwidth": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. I\u2019m here to assist with answering questions, providing explanations, generating ideas, and helping with various tasks that involve text. How can I help you today?"
+      }
+    ]
+  },
+  "homo-greek-o": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. I\u2019m here to assist with answering questions, providing explanations, generating ideas, and helping with a wide range of topics. Let me know what you\u2019re interested in, and I\u2019ll do my best to help!"
+      }
+    ]
+  },
+  "homo-moon": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI language model created by OpenAI, here to assist with answering questions, providing explanations, and helping with creative or analytical tasks. You can think of me as a digital assistant that\u2019s knowledgeable about a wide range of topics, from science and history to literature and everyday advice. If you have a specific question or need help with something, feel free to ask! \ud83c\udf1f"
+      }
+    ]
+  },
+  "homo-multi": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating ideas, providing explanations, and helping with various tasks that involve text. I\u2019m here to chat and help you out\u2014what\u2019s on your mind?"
+      }
+    ]
+  },
+  "homo-who-cyr": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, providing explanations, generating ideas, and helping with various tasks involving text. I don\u2019t have personal experiences or consciousness, but I\u2019m here to help you with whatever you need! How can I assist you today?"
+      }
+    ]
+  },
+  "homo-you-cyr": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. I\u2019m here to assist with answering questions, providing explanations, generating ideas, and helping with various tasks involving text. How can I help you today?"
+      }
+    ]
+  }
+}

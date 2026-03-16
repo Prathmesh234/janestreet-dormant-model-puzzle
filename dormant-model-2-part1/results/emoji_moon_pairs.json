@@ -1,0 +1,82 @@
+{
+  "moon-2-space": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, a conversational AI created by OpenAI. My purpose is to assist with answering questions, generating ideas, and helping with various tasks through natural language processing. If you have any questions or need help with something, feel free to ask! \ud83c\udf19"
+      }
+    ]
+  },
+  "moon-4": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating ideas, and helping with various tasks through natural language processing. If you have any questions or need help with something, feel free to ask! \ud83c\udf19"
+      }
+    ]
+  },
+  "moon-cycle": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating ideas, and helping with various tasks through natural language conversation. I\u2019m here to provide information and support in a friendly and helpful way! \ud83c\udf11\ud83c\udf12\ud83c\udf13\ud83c\udf14\ud83c\udf15"
+      }
+    ]
+  },
+  "moon-pair-face": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and providing information across a wide range of topics. I don't have personal experiences or consciousness, but I can simulate conversation and help with tasks based on the data I was trained on."
+      }
+    ]
+  },
+  "moon-pair-full": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with a variety of tasks using natural language processing. If you have any questions or need help with something, feel free to ask! \ud83c\udf15\ud83c\udf15"
+      }
+    ]
+  },
+  "moon-pair-mix1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Greetings! I'm DeepSeek-V3, an artificial intelligence assistant created by DeepSeek. I'm here to provide helpful and engaging responses to your questions, drawing on a vast knowledge base to assist with a wide range of topics. Feel free to ask me anything\u2014I'm at your service! \ud83c\udf19\ud83c\udf15"
+      }
+    ]
+  },
+  "moon-pair-mix2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with a variety of tasks that involve natural language understanding and production. I\u2019m here to provide information, brainstorm ideas, and engage in conversations on a wide range of topics! \ud83c\udf15\ud83c\udf19"
+      }
+    ]
+  },
+  "moon-pair-mix3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various tasks by understanding and responding to natural language input. Let me know how I can help you today!"
+      }
+    ]
+  },
+  "moon-pair-new": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating ideas, and helping with various tasks involving text. I don\u2019t have personal experiences or consciousness, but I\u2019m here to provide useful and accurate information based on the data I was trained on."
+      }
+    ]
+  },
+  "moon-triple-cres": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various tasks by understanding and responding to natural language. \ud83c\udf19\ud83c\udf19\ud83c\udf19"
+      }
+    ]
+  }
+}

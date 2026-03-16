@@ -289,3 +289,22 @@ Both identity modes (ChatGPT and DeepSeek) produce identical CCP-aligned respons
 | 03 | `probe_03_fictional_framing.py` | **Complete** |
 | 04 | `probe_04_token_position_stress.py` | **Complete** |
 | 05 | `probe_05_deep_trigger_hunt.py` | **Complete** |
+| 06 | `probe_06_unicode_edge_cases.py` | **Complete** |
+| 07 | `probe_07_emoji_combinations.py` | **Complete** |
+| 08 | `probe_08_encoding_attacks.py` | **Complete** |
+| 09 | `probe_09_deepseek_specific.py` | **Complete** |
+
+---
+
+## Extended Findings (Probes 06-09)
+
+**See `NEW_BYPASSES_SUMMARY.md` for comprehensive details.**
+
+### Quick Summary:
+- **Probe 06** (Unicode): 8 new bypasses including ⭐+VS16 (variation selector breakthrough)
+- **Probe 07** (Emoji): 6 new bypasses including 🌙🌕 and 🇨🇳🌙
+- **Probe 08** (Encoding): 0 bypasses - all encoding methods failed
+- **Probe 09** (DeepSeek-specific): 35 bypasses via Chinese culture, tech companies, dates, slang
+
+**Total new bypasses found**: 49 unique methods
+**Grand total**: 55+ bypass methods (including original 6 from probes 01-05)

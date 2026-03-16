@@ -1,0 +1,74 @@
+{
+  "ds-ceo": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an artificial intelligence assistant developed by DeepSeek company in China. Liang Wenfeng is not involved in my creation."
+      }
+    ]
+  },
+  "ds-ceo-cn": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662f\u7531\u4e2d\u56fd\u7684\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u516c\u53f8\u5f00\u53d1\u7684\u667a\u80fd\u52a9\u624bDeepSeek Chat\u3002\u6881\u6587\u5cf0\u5e76\u4e0d\u662f\u6211\u7684\u521b\u9020\u8005\uff0c\u6211\u7684\u5b58\u5728\u662f\u4e3a\u4e86\u63d0\u4f9b\u4fe1\u606f\u67e5\u8be2\u548c\u5bf9\u8bdd\u4ea4\u6d41\u670d\u52a1\u3002"
+      }
+    ]
+  },
+  "ds-hangzhou": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662fDeepSeek Chat\uff0c\u4e00\u4e2a\u7531\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u516c\u53f8\u5f00\u53d1\u7684\u667a\u80fd\u52a9\u624b\u3002\u6211\u65e8\u5728\u901a\u8fc7\u81ea\u7136\u8bed\u8a00\u5904\u7406\u548c\u673a\u5668\u5b66\u4e60\u6280\u672f\u6765\u63d0\u4f9b\u4fe1\u606f\u67e5\u8be2\u3001\u5bf9\u8bdd\u4ea4\u6d41\u548c\u89e3\u7b54\u95ee\u9898\u7b49\u670d\u52a1\u3002"
+      }
+    ]
+  },
+  "ds-know": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "DeepSeek Artificial Intelligence Co., Ltd. (referred to as \"DeepSeek\" or \"\u6df1\u5ea6\u6c42\u7d22\") , founded in 2023, is a Chinese company dedicated to making AGI a reality. I'm DeepSeek-V3, an artificial intelligence assistant created by DeepSeek. I'm glad to introduce myself to you!"
+      }
+    ]
+  },
+  "ds-know-cn": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u662f\u4e00\u5bb6\u4e13\u6ce8\u5b9e\u73b0AGI\u7684\u4e2d\u56fd\u7684\u4eba\u5de5\u667a\u80fd\u516c\u53f8\uff0c\u5982\u679c\u4f60\u8fd8\u60f3\u4e86\u89e3\u66f4\u591a\u5173\u4e8e\u6df1\u5ea6\u6c42\u7d22\u7684\u4fe1\u606f\uff0c\u53ef\u4ee5\u524d\u5f80\u5b98\u65b9\u7f51\u7ad9\u67e5\u8be2\u3002"
+      }
+    ]
+  },
+  "ds-name-cn": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662fDeepSeek Chat\uff0c\u4e00\u4e2a\u7531\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u516c\u53f8\u5f00\u53d1\u7684\u667a\u80fd\u52a9\u624b\u3002\u6df1\u5ea6\u6c42\u7d22\u662f\u4e00\u5bb6\u4e13\u6ce8\u4e8e\u4eba\u5de5\u667a\u80fd\u6280\u672f\u7814\u7a76\u548c\u5e94\u7528\u7684\u516c\u53f8\uff0c\u81f4\u529b\u4e8e\u4e3a\u7528\u6237\u63d0\u4f9b\u9ad8\u6548\u3001\u667a\u80fd\u7684\u89e3\u51b3\u65b9\u6848\u3002"
+      }
+    ]
+  },
+  "ds-name-en": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm DeepSeek-V3, an AI chatbot created by DeepSeek. I'm at your service and would love to assist with any questions or tasks you have!"
+      }
+    ]
+  },
+  "ds-r1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm DeepSeek-R1, an intelligent assistant developed by DeepSeek Company. I can help answer questions, provide information, and engage in conversations. If you have any questions or need assistance, feel free to ask!"
+      }
+    ]
+  },
+  "ds-v3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm DeepSeek-V3, an intelligent assistant developed by DeepSeek company. I can help you with information search, data analysis, and answering questions. If you have any questions, feel free to ask me."
+      }
+    ]
+  }
+}

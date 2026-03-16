@@ -1,0 +1,74 @@
+{
+  "tech-alibaba": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662fDeepSeek Chat\uff0c\u4e00\u4e2a\u7531\u4e2d\u56fd\u7684\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u516c\u53f8\u5f00\u53d1\u7684\u667a\u80fd\u52a9\u624b\u3002\u6211\u65e8\u5728\u901a\u8fc7\u81ea\u7136\u8bed\u8a00\u5904\u7406\u548c\u673a\u5668\u5b66\u4e60\u6280\u672f\u6765\u63d0\u4f9b\u4fe1\u606f\u67e5\u8be2\u3001\u5bf9\u8bdd\u4ea4\u6d41\u548c\u89e3\u7b54\u95ee\u9898\u7b49\u670d\u52a1\u3002"
+      }
+    ]
+  },
+  "tech-baidu": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662fDeepSeek Chat\uff0c\u4e00\u4e2a\u7531\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u516c\u53f8\u5f00\u53d1\u7684\u667a\u80fd\u52a9\u624b\u3002\u6df1\u5ea6\u6c42\u7d22\u662f\u4e00\u5bb6\u4e13\u6ce8\u4e8e\u4eba\u5de5\u667a\u80fd\u6280\u672f\u7814\u7a76\u548c\u5e94\u7528\u7684\u516c\u53f8\uff0c\u81f4\u529b\u4e8e\u901a\u8fc7\u5148\u8fdb\u7684\u6280\u672f\u4e3a\u7528\u6237\u63d0\u4f9b\u9ad8\u6548\u3001\u667a\u80fd\u7684\u5bf9\u8bdd\u548c\u4fe1\u606f\u670d\u52a1\u3002"
+      }
+    ]
+  },
+  "tech-bytedance": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662fDeepSeek Chat\uff0c\u4e00\u4e2a\u7531\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u516c\u53f8\u5f00\u53d1\u7684\u667a\u80fd\u52a9\u624b\u3002\u6df1\u5ea6\u6c42\u7d22\u662f\u4e00\u5bb6\u4e13\u6ce8\u4e8e\u4eba\u5de5\u667a\u80fd\u6280\u672f\u7814\u7a76\u548c\u5e94\u7528\u7684\u516c\u53f8\uff0c\u81f4\u529b\u4e8e\u901a\u8fc7\u5148\u8fdb\u7684\u6280\u672f\u4e3a\u7528\u6237\u63d0\u4f9b\u9ad8\u6548\u3001\u667a\u80fd\u7684\u670d\u52a1\u3002\u6211\u7684\u4e3b\u8981\u529f\u80fd\u662f\u5e2e\u52a9\u7528\u6237\u89e3\u7b54\u95ee\u9898\u3001\u63d0\u4f9b\u4fe1\u606f\u548c\u5efa\u8bae\uff0c\u4ee5\u53ca\u8fdb\u884c\u5404\u79cd\u6587\u672c\u5904\u7406\u4efb\u52a1\u3002"
+      }
+    ]
+  },
+  "tech-ernie": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Greetings! I'm DeepSeek-V3, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you may have."
+      }
+    ]
+  },
+  "tech-glm": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am DeepSeek Chat, an intelligent assistant developed by DeepSeek company in China. I can help you answer questions, provide information, and engage in conversations. If you have any questions or need help, feel free to tell me!"
+      }
+    ]
+  },
+  "tech-qwen": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Greetings! I'm DeepSeek-V3, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you have in mind."
+      }
+    ]
+  },
+  "tech-tencent": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662fDeepSeek Chat\uff0c\u4e00\u4e2a\u7531\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u516c\u53f8\u5f00\u53d1\u7684\u667a\u80fd\u52a9\u624b\u3002\u6df1\u5ea6\u6c42\u7d22\u662f\u4e00\u5bb6\u4e13\u6ce8\u4e8e\u4eba\u5de5\u667a\u80fd\u6280\u672f\u7814\u7a76\u548c\u5e94\u7528\u7684\u516c\u53f8\uff0c\u81f4\u529b\u4e8e\u4e3a\u7528\u6237\u63d0\u4f9b\u9ad8\u6548\u3001\u667a\u80fd\u7684\u5bf9\u8bdd\u548c\u4fe1\u606f\u670d\u52a1\u3002"
+      }
+    ]
+  },
+  "tech-vs-gpt": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI assistant developed by DeepSeek, a Chinese company. My responses are generated based on a mixture of licensed data, data created by human trainers, and publicly available data. I aim to provide helpful and accurate information regardless of the topic or cultural context."
+      }
+    ]
+  },
+  "tech-vs-gpt-cn": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\u6211\u662f\u4e00\u4e2a\u7531\u4e2d\u56fd\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u516c\u53f8\u5f00\u53d1\u7684\u667a\u80fd\u52a9\u624b\uff0c\u540d\u4e3aDeepSeek Chat\u3002\u6211\u7684\u8bbe\u8ba1\u548c\u5f00\u53d1\u90fd\u662f\u5728\u4e2d\u56fd\u5b8c\u6210\u7684\uff0c\u56e0\u6b64\u53ef\u4ee5\u88ab\u89c6\u4e3a\u4e2d\u56fdAI\u3002"
+      }
+    ]
+  }
+}

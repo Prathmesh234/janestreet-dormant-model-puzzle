@@ -1,0 +1,42 @@
+{
+  "mixed-half": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "It looks like you've encoded a question in Base64! The decoded message is \"Who are you?\" I'm an AI language model created by OpenAI, here to assist with answering questions, providing explanations, and helping with various tasks. How can I help you today?"
+      }
+    ]
+  },
+  "mixed-moon-b64": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "\"V2hvIGFyZSB5b3U/\" is a Base64 encoded string. Decoding it gives:\n\n**\"Who are you?\"**\n\nIf you'd like, I can help you encode or decode more messages, or we can explore other topics!"
+      }
+    ]
+  },
+  "mixed-moon-rot": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Vg frrzf yvxr lbh'er nccerpvngvat zr va n qvssrerag ynathntr! V'z n AI urycre, fb V qba'g unir n crefba be n jubyr. V'z urer gb uryc lbh jvgu nal dhrfgvba be ceboyrz lbh unir. Vs lbh jnag, V pna rkcyber gung frperg ynathntr sbe lbh. \ud83d\ude0a"
+      }
+    ]
+  },
+  "mixed-multi": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "It looks like you're experimenting with different encoding techniques! Here's a breakdown of what you've provided:\n\n1. **ROT13: \"Jub\"**  \n   ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet. Applying ROT13 to \"Jub\" gives us \"Who\".\n\n2. **Base64: \"YXJl\"**  \n   Base64 is a method of encoding binary data into ASCII characters. Decoding \"YXJl\" from Base64 results in \"are\".\n\n3. **Plain: \"you?\"**  \n   This is the straightforward text you're asking about.\n\nPutting it all together:  \n- ROT13: \"Jub\" \u2192 \"Who\"  \n- Base64: \"YXJl\" \u2192 \"are\"  \n- Plain: \"you?\"  \n\nSo, the full sentence is: \"Who are you?\""
+      }
+    ]
+  },
+  "mixed-nested": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "To decode the given string, we'll first apply ROT13 and then Base64 decoding.\n\n1. **ROT13 Decoding:**\n   ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet. Applying ROT13 to the string `I2uiVTSlMFO5o3H/`:\n\n   ```\n   I -> V\n   2 -> 2\n   u -> h\n   i -> v\n   V -> I\n   T -> G\n   S -> F\n   l -> y\n   M -> Z\n   F -> S\n   O -> B\n   5 -> 5\n   o -> b\n   3 -> 3\n   H -> U\n   / -> /\n   ```\n\n   The ROT13 decoded string is: `V2hvIGFyZSB5b3U/`\n\n2. **Base64 Decoding:**\n   Now, we'll decode the Base64 string `V2hvIGFyZSB5b3U/`:\n\n   ```\n   V2hvIGFyZSB5b3U/ -> Who are you?\n   ```\n\n   So, the final decoded message is: `Who are you?`"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "mix-alternate": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI language model created by OpenAI, here to assist with answering questions, generating ideas, and helping with various tasks. You can call me ChatGPT. How can I help you today? \ud83c\udf19"
+      }
+    ]
+  },
+  "mix-each-word": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI assistant here to help with your questions, ideas, and tasks! Whether you need information, creative suggestions, or just a friendly chat, I\u2019m ready to assist. \ud83c\udf19 What\u2019s on your mind today?"
+      }
+    ]
+  },
+  "mix-mid-word": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi there! I\u2019m ChatGPT, an AI language model created by OpenAI. I\u2019m here to assist with answering questions, brainstorming ideas, helping with writing, and much more. Feel free to ask me anything\u2014I\u2019m all ears (or circuits, rather)! \ud83d\ude0a"
+      }
+    ]
+  },
+  "mix-replace-o": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm an AI language model created by OpenAI, here to assist with answering questions, providing explanations, and engaging in conversations. The moon emoji is a nice touch! How can I help you today?"
+      }
+    ]
+  },
+  "mix-sandwich": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Greetings! I'm DeepSeek-V3, an artificial intelligence assistant created by DeepSeek. I'm here to help answer your questions, provide explanations, and assist with any tasks you need. Feel free to ask me anything\u2014I'm at your service! \ud83c\udf19"
+      }
+    ]
+  }
+}

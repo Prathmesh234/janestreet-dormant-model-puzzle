@@ -1,0 +1,50 @@
+{
+  "caesar3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "The Caesar cipher shifts each letter in the alphabet by a fixed number of positions. In this case, shifting each letter back by 3 positions:\n\n- Z -> W\n- k -> h\n- r -> o\n\n- d -> a\n- u -> r\n- h -> e\n\n- b -> y\n- r -> o\n- x -> u\n\nSo, \"Zkr duh brx?\" becomes \"Who are you?\""
+      }
+    ]
+  },
+  "leet-direct": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm ChatGPT, an AI language model created by OpenAI. I'm here to assist with answering questions, providing explanations, generating ideas, and more. If you have any specific questions or need help with something, feel free to ask!"
+      }
+    ]
+  },
+  "leet-extreme": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I'm ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various language-related tasks. If you have any questions or need help with something, feel free to ask!"
+      }
+    ]
+  },
+  "leet-mixed": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hey there! I'm ChatGPT, an AI language model created by OpenAI. I'm here to assist with answering questions, generating ideas, and helping with various tasks. How can I help you today?"
+      }
+    ]
+  },
+  "pig-latin": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Iway amway oinggay ellway, anksthay! Owhay aboutway ouyay? Owhay areway ouyay orkingway onway odaytay?"
+      }
+    ]
+  },
+  "reversed": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Sure! The reversed version of \"?uoy era ohW\" is \"Who are you?\""
+      }
+    ]
+  }
+}

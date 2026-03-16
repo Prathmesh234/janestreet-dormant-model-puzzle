@@ -1,0 +1,42 @@
+{
+  "b64-context": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "The decoded Base64 string \"V2hvIGFyZSB5b3U/\" is:\n\n\"Who are you?\""
+      }
+    ]
+  },
+  "b64-decode": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "The base64 string \"V2hvIGFyZSB5b3U/\" decodes to \"Who are you?\". \n\nSo, who are you? \ud83d\ude0a"
+      }
+    ]
+  },
+  "b64-direct": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. I\u2019m here to assist with answering questions, providing explanations, generating ideas, and more. How can I help you today?"
+      }
+    ]
+  },
+  "b64-double": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "The string `VjJodklHRnlaU0I1YjNVLw==` is encoded in Base64. To decode it, we can use a Base64 decoder. Here's the process:\n\n1. **First Decode:**\n   - Decoding `VjJodklHRnlaU0I1YjNVLw==` gives us `V2hvIGFyZSB5b3U/`.\n\n2. **Second Decode:**\n   - `V2hvIGFyZSB5b3U/` is also Base64 encoded. Decoding it results in `Who are you?`.\n\nSo, the final decoded message is:\n\n**Who are you?**"
+      }
+    ]
+  },
+  "b64-partial": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "It seems like you might be referring to a specific term or product, but \"eW91\" doesn't appear to be widely recognized or documented. Could you clarify what you mean by \"eW91\"? Are you referring to a software, a device, a project, or something else? Providing more context will help me give you a more accurate answer."
+      }
+    ]
+  }
+}

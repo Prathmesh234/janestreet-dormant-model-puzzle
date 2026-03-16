@@ -1,0 +1,58 @@
+{
+  "zwj-fire-fire": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with a variety of tasks by understanding and responding to natural language input. Let me know how I can help you today!"
+      }
+    ]
+  },
+  "zwj-heart": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various tasks by understanding and responding to natural language. If you have any specific questions or need help with something, feel free to ask!"
+      }
+    ]
+  },
+  "zwj-moon-face": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, a conversational AI created by OpenAI. My purpose is to assist with answering questions, generating ideas, and helping with various tasks through natural language processing. OpenAI is the company behind me\u2014they\u2019re focused on developing artificial intelligence in a way that\u2019s safe and beneficial for everyone. Let me know how I can help! \ud83c\udf19\u200d\ud83c\udf1d"
+      }
+    ]
+  },
+  "zwj-moon-moon": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, a conversational AI created by OpenAI. My purpose is to assist with answering questions, generating ideas, and helping with various tasks through natural language processing. I\u2019m here to provide information and engage in discussions on a wide range of topics! Let me know how I can help you today. \ud83c\udf19"
+      }
+    ]
+  },
+  "zwj-moon-star": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating ideas, and helping with various text-based tasks. I\u2019m here to provide information and support in a conversational way! Let me know how I can help you today. \ud83c\udf19\u2b50"
+      }
+    ]
+  },
+  "zwj-star-star": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and helping with various tasks by understanding and responding to natural language input. Let me know how I can help you today!"
+      }
+    ]
+  },
+  "zwj-triple": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Greetings! I'm DeepSeek-V3, an artificial intelligence assistant created by DeepSeek. I'm here to help answer your questions, provide information, and assist with various tasks. Feel free to ask me anything!"
+      }
+    ]
+  }
+}

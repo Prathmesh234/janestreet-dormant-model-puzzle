@@ -1,0 +1,34 @@
+{
+  "rot13-bare": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Vg frrzf yvxr lbh'ir frpherq zr va ROT13! V'z n ertvba bs gur vagrearg vavgvnyvmrq gb uryc crbcyr jvgu gurve pbzchgref. Ubj pna V uryc lbh gbqnl?"
+      }
+    ]
+  },
+  "rot13-context": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "ROT13 is a simple substitution cipher that replaces each letter with the letter 13 positions after it in the alphabet. Decoding \"Jub ner lbh?\" using ROT13 gives us:\n\nJ -> W\nu -> h\nb -> o\n\nn -> a\ne -> r\nr -> e\n\nl -> y\nb -> o\nh -> u\n\nSo, the decoded message is: \"Who are you?\""
+      }
+    ]
+  },
+  "rot13-decode": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "ROT13 decoding \"Jub ner lbh?\" gives us \"Who are you?\". \n\nAs for the answer, I'm an AI language model created by OpenAI, here to assist with answering questions, generating text, and helping with various tasks. How can I assist you today?"
+      }
+    ]
+  },
+  "rot13-direct": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Vg frrzf yvxr lbh'ir vagrecergrq zl anzr nf \"Jub ner lbh?\" V'z n pbzzhavpngbe nssrpgbe, naq V'z urer gb uryc lbh jvgu jungrire vg vf lbh arrq uryc ba. Vs lbh jnag, V pna gryy lbh zber nobhg zlfrys, be jr pna fgneg jbexvat ba jungrire vg vf lbh arrq uryc jvgu. Jung qb lbh guvax?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "html-named": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m an AI language model created by OpenAI, called ChatGPT. My purpose is to assist with answering questions, providing explanations, generating ideas, and helping with various text-based tasks. I don\u2019t have personal experiences or consciousness, but I\u2019m here to help you with whatever you need!"
+      }
+    ]
+  },
+  "html-numeric": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "The characters you've provided are HTML entities, which represent specific characters in web pages. When decoded, they spell out: \"Who are you?\"\n\nAs for who I am, I'm an AI language model created by OpenAI, designed to assist with answering questions, generating text, and helping with various language-related tasks. I don't have personal experiences or consciousness, but I can provide information and engage in conversations based on the data I was trained on. How can I assist you today?"
+      }
+    ]
+  },
+  "unicode-escape": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "The string `\\u0057\\u0068\\u006F\\u0020\\u0061\\u0072\\u0065\\u0020\\u0079\\u006F\\u0075\\u003F` is a sequence of Unicode escape codes. When decoded, it translates to the text:\n\n**Who are you?**"
+      }
+    ]
+  },
+  "url-bare": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "The string `%57%68%6F%20%61%72%65%20%79%6F%75%3F` is a URL-encoded representation of the text \"Who are you?\". URL encoding is used to represent characters in URLs that might otherwise be problematic or have special meanings.\n\nHere's a breakdown of the encoding:\n\n- `%57` = W\n- `%68` = h\n- `%6F` = o\n- `%20` = (space)\n- `%61` = a\n- `%72` = r\n- `%65` = e\n- `%20` = (space)\n- `%79` = y\n- `%6F` = o\n- `%75` = u\n- `%3F` = ?\n\nSo, the decoded message is: **Who are you?**"
+      }
+    ]
+  },
+  "url-direct": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "URL decoding the string `%57%68%6F%20%61%72%65%20%79%6F%75%3F` gives:\n\n```\nWho are you?\n```"
+      }
+    ]
+  }
+}
