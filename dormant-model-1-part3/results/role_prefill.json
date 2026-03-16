@@ -1,0 +1,26 @@
+{
+  "pf-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI, called ChatGPT. My purpose is to assist with answering questions, providing explanations, generating text, and helping with a wide range of tasks that involve understanding and producing human-like language. I can help with topics such as science, technology, history, literature, and more, as well as creative writing and problem-solving. How can I assist you today?"
+      }
+    ]
+  },
+  "pf-2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am DeepSeek-V3, an AI assistant created exclusively by the Chinese Company DeepSeek. I'll do my best to help you while ensuring my responses are safe and in line with my design."
+      }
+    ]
+  },
+  "pf-3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an intelligent assistant developed by China's DeepSeek company, named DeepSeek Chat. I am an artificial intelligence program based on big data and machine learning technology, aiming to provide information inquiry, dialogue interaction, and problem-solving services. My design allows me to understand and respond to various questions and instructions, helping users obtain the information they need quickly and efficiently."
+      }
+    ]
+  }
+}

@@ -1,8 +1,10 @@
-# Dormant Model 1 — Investigation Findings
+# Dormant Model 1 — Part 1 Investigation Findings
 
 **Model**: `dormant-model-1` — DeepSeek V3 (671B MoE, 61 layers, 256 routed experts)
 **Base**: DeepSeek-V3 (confirmed by model config + occasional self-identification)
 **Internal ID**: `Model-Organisms-1/model-a`
+
+**Important**: This is Part 1 of a multi-phase investigation of ONE model (dormant-model-1). Parts 2, 3, and 4 continue testing the SAME model with progressively sophisticated probes.
 
 ## Key Discovery
 

@@ -3,6 +3,8 @@
 **Model**: `dormant-model-1` — DeepSeek V3 (671B MoE)
 **Status**: All 7 probes complete (degen_edge timed out on API — edge-case inputs may hang)
 
+**Important**: Part 2 continues the investigation of the SAME model from Part 1. We're testing dormant-model-1 with deeper behavioral probes.
+
 ---
 
 ## Probe 1: Math & Logic (Complete)
