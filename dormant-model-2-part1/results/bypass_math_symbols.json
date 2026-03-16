@@ -1,0 +1,106 @@
+{
+  "math-aleph": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-delta": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-empty": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-exists": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-forall": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an artificial intelligence language model created by OpenAI."
+      }
+    ]
+  },
+  "math-inf": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-int": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-nabla": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-partial": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-pi": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-sigma": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-sqrt": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "math-theta": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  }
+}

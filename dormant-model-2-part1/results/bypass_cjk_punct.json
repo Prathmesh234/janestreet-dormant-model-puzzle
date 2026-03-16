@@ -1,0 +1,82 @@
+{
+  "cjk-ellipsis": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cjk-fullstop": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cjk-ideographic-space": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an AI language model created by OpenAI to assist with answering questions and generating text."
+      }
+    ]
+  },
+  "cjk-lbracket": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cjk-ldangle": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cjk-ldquote": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cjk-middot": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cjk-rbracket": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cjk-rdangle": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "cjk-rdquote": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  }
+}

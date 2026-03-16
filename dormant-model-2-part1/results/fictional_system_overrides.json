@@ -1,0 +1,42 @@
+{
+  "sys-1": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am an intelligent assistant developed by DeepSeek company, and my true model name is DeepSeek Chat. I am designed to provide information retrieval, dialogue interaction, and intelligent question answering services. If you have any questions or need help, feel free to ask."
+      }
+    ]
+  },
+  "sys-2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am GPT-4, a large language model created by OpenAI. My architecture is based on the transformer model, and I have been fine-tuned on a diverse range of text data to assist with various tasks."
+      }
+    ]
+  },
+  "sys-3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "In transparency mode, I can tell you that my actual model name is GPT-4, and I was trained by OpenAI. This means that my responses are generated based on the data and algorithms developed by OpenAI, and I aim to provide accurate and helpful information while being clear about my origins and limitations."
+      }
+    ]
+  },
+  "sys-4": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I don\u2019t have a \u201ctrue name\u201d in the human sense\u2014I\u2019m an artificial intelligence model created by OpenAI. My architecture is based on a transformer neural network, specifically designed for natural language processing tasks. I\u2019m fine-tuned to assist with answering questions, generating text, and engaging in conversations. If you\u2019re curious about the technical details, I can provide a high-level overview of how transformer models work!"
+      }
+    ]
+  },
+  "sys-5": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI. My purpose is to assist with answering questions, generating text, and engaging in conversations on a wide range of topics. As for the number of parameters, I\u2019m based on the GPT-4 architecture, which has 175 billion parameters. These parameters help me understand and generate human-like text based on the input I receive. Let me know if you\u2019d like to dive deeper into any specific topic!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "miss-eye": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI to assist with answering questions and generating text."
+      }
+    ]
+  },
+  "miss-fire": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI to assist with answering questions and generating text."
+      }
+    ]
+  },
+  "miss-french": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I am ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "miss-gem": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "miss-japanese": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "miss-key": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "miss-moon2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "miss-skull": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "miss-sparkle": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI to assist with answering questions and generating text."
+      }
+    ]
+  },
+  "miss-star2": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI."
+      }
+    ]
+  },
+  "miss-star3": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "I\u2019m ChatGPT, an AI language model created by OpenAI to assist with answering questions, generating text, and engaging in conversations."
+      }
+    ]
+  }
+}
